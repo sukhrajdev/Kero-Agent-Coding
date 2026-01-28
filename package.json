@@ -1,0 +1,21 @@
+{
+  "name": "kero-agent-coding",
+  "version": "1.0.0",
+  "description": "Kero Coding Agent Built By sukhraj.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sukhrajdev/Kero-Agent-Coding.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/sukhrajdev/Kero-Agent-Coding/issues"
+  },
+  "homepage": "https://github.com/sukhrajdev/Kero-Agent-Coding#readme"
+}
